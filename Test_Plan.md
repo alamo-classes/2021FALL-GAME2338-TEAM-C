@@ -2,54 +2,67 @@
 
 ## Summary
 
-Summarize the project and the functions of the software to be tested
+The project is to test some of the core functions of Apex Legends, such as basic control functionality and how they handle in gameplay, shooting mechanics, progression errors and crashes, and any sort of issues with multiplayer functionality such as crossplay functions as well.
 
 ## Environment/User Community
 
-Identify user community and where testing will be performed
+Presumably our testing environment will preside over the PC community
 
 ## Test Objectives
 
-State objectives to be accomplished by testing
+Are the core mechanics of the game solid and function well whether on gamepad or keyboard
+Are menu options well calibrated and house all thinkable options a player would want
+Is the multiplayer functionality very well protected and developed
+Is the game overall accessible and fun for all players
+Are files well optimized
+Is the game fairly crash resistant
+
 
 ## Acceptance Criteria
 
-Estimated number of defect or internal test acceptance criteria
+3
 
 ## References
 
-* List any reference documents
 
 # Section 2: Plan
 ## Test Description
 
-Briefly describe what is being tested and any inputs needed for testing
+Gamepad compatibility
+Crossplatform performance
+UI functionality
+Core mechanics such as movement or shooting
+Game optimization
 
 ## Test Team
 
-Who is on the team and what is their role/assignment
-
+Jack Boland
+TBD
+Deven Zimmer
+TBD
+Christa Gonzalez
+TBD
 ## Milestones
 
 * Testing Locations, events, test phases and dates of testing
 
+
 ## Budgets
 
-Funds allocated to testing by task
+No budget
 
 ## Testing
 ### Requirements
 
-Resource requirements, equipment, software/hardware, tester with special skill set
+Since testing will come from us three, no special training should be required as we have been learning about testing for a while now. No software should be required either unless recording is necessary for bug capture.
 
 ### Testing Materials/Test Tools
 
-Documentation you will use or produce or testing tools used
+Possible capturing of footage of bugs or errors if reproduceable, and github documentation of bugs and descriptions of said bugs.
 
 ### Test Training
 
-Personnel training, types of training/training staff - could include acceptance testing or
-playtesting
+Playtest training might be helpful but unnessecary for now.
 
 # Section 3: Specifications and Evaluations
 
@@ -57,11 +70,11 @@ playtesting
 
 ### Business Rules/Functions
 
-* List any business requirements (list)
+No business requirements
 
 ### Software/Game Functions
 
-* List any software requirements (list)
+Possible recording software
 
 ### Test/Function Relationships
 
@@ -69,13 +82,13 @@ Match individual tests or test suites to requirements (this is usually a table)
 Beginning stages of developing your test suites
 
 ### Test Progression
-Describe how progression is made from one test to another
+
 
 ## Methods and Constraints
 
 ### Test Methodology
 
-Describe testing strategy/types of testing or any other methodology
+Integration Testing, System Testing, Acceptance Testing, Performance Testing, Endurance Testing, Stress Testing, Compatability Testing, Usability Testing
 
 ### Extent of Testing
 
