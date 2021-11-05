@@ -1,6 +1,6 @@
 Game Review for (Apex Legends)
 Game Title
-Portal 2
+Apex Legends
 https://store.steampowered.com/app/1172470/Apex_Legends/
 Rating
 5
