@@ -13,29 +13,29 @@ as well as fix any issues we foresee in the testing process.
 
 ## Test Objectives
 
-•Usability
-    -Are the instructions clear
-    -Does the UI help the player
-    -Are menu options well calibrated and house all thinkable options a player would want
+•  Usability
+    *Are the instructions clear
+    *Does the UI help the player
+    *Are menu options well calibrated and house all thinkable options a player would want
 
 • Functionality
-     -Are the core mechanics of the game solid and function well whether on gamepad or keyboard 
-     -Is the multiplayer functionality very well protected and developed
-     -Is the game overall accessible and fun for all players
-     -Player interaction with map works as intended
-     -Are files well optimized
-     -Is the game fairly crash resistant
-    -Reliability: The button/key functions work consistently
+     *Are the core mechanics of the game solid and function well whether on gamepad or keyboard 
+     *Is the multiplayer functionality very well protected and developed
+     *Is the game overall accessible and fun for all players
+     *Player interaction with map works as intended
+     *Are files well optimized
+     *Is the game fairly crash resistant
+    * Reliability: The button/key functions work consistently
      
 • Balance
-    -Is loot balanced
-    -Is map balanced
-    -Does chance play an appropriate role in the game (test by using different strategies, note every first loot object picked up at start of game) 
-    -"Perfectly Imbalanced" (imbalances that allow players to grow)
+    *Is loot balanced
+    *Is map balanced
+    *Does chance play an appropriate role in the game (test by using different strategies, note every first loot object picked up at start of game) 
+    *"Perfectly Imbalanced" (imbalances that allow players to grow)
      
     
 • Integration
-  -The theme and mechanics go well together and reinforce eachother
+  *The theme and mechanics go well together and reinforce eachother
   
   
 
