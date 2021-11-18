@@ -60,7 +60,7 @@ Game optimization
 Jack Boland - 
 PC testing
 
-Deven Zimmer
+Deven Zimmer -
 PS4 Testing
 
 Christa Gonzalez
@@ -68,12 +68,12 @@ TBD
 ## Milestones
 
 * Testing Locations: Home
-* events
+* events: N/A
 
-test phases:
-USABILITY
-FUNCTIONALITY
-BALANCE
+* test phases:
+    USABILITY
+    FUNCTIONALITY
+    BALANCE
 
 testing date tbd
 
@@ -86,7 +86,7 @@ No budget
 ### Requirements
 
 Since testing will come from us three, no special training should be required as we have been learning about testing for a while now. 
-No new software should be required either unless recording is necessary for bug capture.
+No new software should be required unless recording is necessary for bug capture.
 Basic Requirements needed are a PC and Playstation as well as the game.
 
 ### Testing Materials/Test Tools
