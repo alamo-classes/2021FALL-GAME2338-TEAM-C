@@ -63,8 +63,8 @@ PC testing
 Deven Zimmer -
 PS4 Testing
 
-Christa Gonzalez
-TBD
+Christa Gonzalez - 
+PS4 Testing
 ## Milestones
 
 * Testing Locations: Home
