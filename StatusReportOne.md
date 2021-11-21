@@ -28,7 +28,7 @@ Finish game testing and writing rough reports by November 27th (over the break) 
 
 # Changes
 
-* Changed game choice to Apex Legends. Original game choice was portal 2. (changed on 10/26/21)
+* Changed game choice to Apex Legends. Original game choice was Portal 2. (changed on 10/26/21)
 * Brainstorming on what to test in Apex changed 
 * Decided to test on playstation as well
 
