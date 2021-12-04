@@ -184,4 +184,51 @@ When using mechanics that involve player movement, each function works as intend
 | 3 | | | |			
 | 4 | | | |
 
+# Test Case : Environment interaction
+
+## Test Details
+
+* Test Case ID:
+  * #005
+* Test Case Name:
+  * Environment interaction
+* Component: 
+  * Environment reacting with mechanics
+* Test Case Designer:
+  * Deven Zimmer
+* Creation Date:
+  * Dec 1st
+* Modified By:
+  * Deven Zimmer
+* Modified Date:
+  * December 1st
+* Requirements Covered:
+  * the environment responds based on the mechanics used as intended
+* Test Description/Purpose:
+  * This test is to ensure that the world of the game responds well with a player's input
+* Pre-Test Conditions:
+  * Game loads and player mechanics work
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 | interact with a door | door opens/closes| (√) |			
+| 2 | interact with item | item disappears from world and appears in inventory | (√) |			
+| 3 | interact with grapple/rope| character slides up rope | (√) |			
+| 4 | interact with player flag | player rescue becomes available | (√) |			
+| 5 | interact with supply bins| supply bins open | (√)  |			
+			
+	
+
+## Overall Test Status:
+The game is easily navigateable through the use of the correct buttons as shown. Most buttons navigate to the correlating areas, however, on the settings page (PS4), you can hover over the buttons (back, return to main menu, and view cinematic) but clicking the buttons does nothing but fire the select sound and highlight the button. They do have the the correct symbols for the buttons to press so clicking the direction buttons on controller funtion as intended. UPDATE: I tested the same menu on my pc and it seemed to work, showing that the settings screen buttons were intended to function on the ps4 but something went wrong. In my experience it's a simple variable that isnt correctly referenced and would be an easy fix.
+
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 | Dec 1st | Deven Zimmer (Ps4) | 5/5 pass |			
+| 2 | Dec 1st | Deven Zimmer(PC) | 5/5 pass |			
+| 3 | | | |	
+| 4 | | | |
+
 
