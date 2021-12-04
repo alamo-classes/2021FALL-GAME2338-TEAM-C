@@ -15,7 +15,7 @@
 * Modified By:
   * Deven Zimmer
 * Modified Date:
-  * Nov 30th
+  * december 1st
 * Requirements Covered:
   * the game turns on and UI/GUI is displayed correctly
 * Test Description/Purpose:
@@ -28,22 +28,23 @@
 | 1 | Open the application | Game loads | (√) |			
 | 2 | navigate the menu | button functions should select | (√) |			
 | 3 | press options on controller| options/settings should appear | (√) |			
-| 4 | adjust options such as resolution/audio | program should keep the options throughout play | |			
+| 4 | adjust options such as resolution/audio | program should keep the options throughout play | (√) |			
 | 5 | press back button| pressing the button should allow you to go back | (x) |			
 | 6 | pressing suggested keys/buttons work | any buttons shown do as intended | (√) |			
 | 7 | press play | the game should start | (√) |			
 	
 
 ## Overall Test Status:
-The game is easily navigateable through the use of the correct buttons as shown. Most buttons navigate to the correlating areas, however, on the settings page, you can hover over the buttons (back, return to main menu, and view cinematic) but clicking the buttons does nothing but fire the select sound and highlight the button. They do have the the correct symbols for the buttons to press so clicking the direction buttons on your mouse or keyboard funtion as intended. Passed 6/7
+The game is easily navigateable through the use of the correct buttons as shown. Most buttons navigate to the correlating areas, however, on the settings page (PS4), you can hover over the buttons (back, return to main menu, and view cinematic) but clicking the buttons does nothing but fire the select sound and highlight the button. They do have the the correct symbols for the buttons to press so clicking the direction buttons on controller funtion as intended. UPDATE: I tested the same menu on my pc and it seemed to work, showing that the settings screen buttons were intended to function on the ps4 but something went wrong. In my experience it's a simple variable that isnt correctly referenced and would be an easy fix.
 
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | Nov 30th | Deven Zimmer  | 6/7 pass |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | Nov 30th | Deven Zimmer (Ps4) | 6/7 pass |			
+| 2 | Dec 1st | Deven Zimmer(PC) | 7/7 pass |			
+| 3 | | | |	
+| 4 | | | |
 
 # Test Case 
 
@@ -86,8 +87,9 @@ The game is easily navigateable through the use of the correct buttons as shown.
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
 | 1 | nov 24th | Deven | pass 3/3 |			
-| 2 | | | |			
-| 3 | | | |			
+| 2 | Dec 1st | Deven (PC)|  3/3 |			
+| 3 | | | |	
+| 4 | | | |
  
  
 # Test Case 
@@ -130,8 +132,9 @@ The game has impactful sound effects and the themes blend well with the mechanin
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
 | 1 | nov 30th | Deven | pass 3/3 |			
-| 2 | | | |			
-| 3 | | | |			
+| 2 | Dec 1st | Deven (PC) | pass 3/3 |			
+| 3 | | | |	
+| 4 | | | |
 
 # Test Case 
 
@@ -140,47 +143,45 @@ The game has impactful sound effects and the themes blend well with the mechanin
 * Test Case ID:
   * #004
 * Test Case Name:
-  * #Number
+  * Reliability
 * Component: 
-  * Description
+  * testing character animation functions
 * Test Case Designer:
-  * Name
+  * Deven Zimmer
 * Creation Date:
-  * Date
+  * Nov 28th
 * Modified By:
-  * Name
+  * Deven Zimmer
 * Modified Date:
-  * Date
+  * Dec 3rd
 * Requirements Covered:
-  * Description
+  * Characters movements are consistent
 * Test Description/Purpose:
-  * Description
+  * To ensure that character movements are consistent with their intended keys/buttons, and that each mechanic reacts as intended among the different consoles
 * Pre-Test Conditions:
-  * Description
+  * character must spawn, controls must work, player knows the controls.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 | jump | character jump animation | (√) |			
+| 2 | crouch | character crouch animation | (√) |			
+| 3 | aim | sights should zoom in | (√) |			
+| 4 | sprint | character speed increases | (√) |			
+| 5 | sprint + crouch | character slides | (√) |			
+| 6 | interact with players/ping | marked location pop up | (√) |
+| 7 | shoot | shoot animation | (√) |
+		
 
 ## Overall Test Status:
-
+When using mechanics that involve player movement, each function works as intended across both PC and PS4
 
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
+| 1 | Nov 28 | Deven (PS4) | pass 6/6 |			
+| 2 | Dec 3rd | Deven (PC) | pass 6/6 |			
 | 3 | | | |			
-
+| 4 | | | |
 
 
