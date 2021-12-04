@@ -220,7 +220,7 @@ When using mechanics that involve player movement, each function works as intend
 	
 
 ## Overall Test Status:
-The game is easily navigateable through the use of the correct buttons as shown. Most buttons navigate to the correlating areas, however, on the settings page (PS4), you can hover over the buttons (back, return to main menu, and view cinematic) but clicking the buttons does nothing but fire the select sound and highlight the button. They do have the the correct symbols for the buttons to press so clicking the direction buttons on controller funtion as intended. UPDATE: I tested the same menu on my pc and it seemed to work, showing that the settings screen buttons were intended to function on the ps4 but something went wrong. In my experience it's a simple variable that isnt correctly referenced and would be an easy fix.
+The player's mechanics interacting with the world ran smoothly making it easy for players as well as fun to use the environment around them to gain advantage on other players or strategize. This test showed that interacting with loot, doors, supply bins, etc, all successfully provided the inteded result with ease.
 
 
 ## Run History:
