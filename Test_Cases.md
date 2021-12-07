@@ -231,4 +231,55 @@ The player's mechanics interacting with the world ran smoothly making it easy fo
 | 3 | | | |	
 | 4 | | | |
 
+# Test Case 
+
+## Test Details
+
+* Test Case ID:
+  * #006
+* Test Case Name:
+  * Cross Compatiblity
+* Component: 
+  * ensure the program works across different platforms
+* Test Case Designer:
+  * Deven Zimmer
+* Creation Date:
+  * Dec 5th
+* Modified By:
+  * Deven Zimmer
+* Modified Date:
+  * december 6th
+* Requirements Covered:
+  * Multiplayer works across playstation and pc
+* Test Description/Purpose:
+  * This test ensures that players may play online with friends through different consoles without loss of functionality or game quality
+* Pre-Test Conditions:
+  * Application loads on all consoles, Two players 
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 | Open the application | Game loads | (√) |			
+| 2 | Invite Player 2 to lobby | P2 receives invite | (√) |			
+| 3 | P2 accepts invite | P2's Character loads into lobby| (√) |			
+| 4 | Start Game | Both players load into the same game | (√) |			
+| 5 | P1 leaves game | P1 returns to lobby, P2 remains in game | (√) |			
+| 6 | P2 leaves game | P2 returns to same lobby | (√) |	
+| 6 | disconnect from lobby | multiplayer connection ends | (√) |	
+
+			
+	
+
+## Overall Test Status:
+This game runs smoothly with cross compatability. When testing on PC and inviting a player from playstation 4, the quality of the application remained the same and player 2 loaded into the game lobby with no issues. Starting a game caused no issues and both players remained connected throughout the loading screen and throughout choosing characters. Out of multiple games, none had issues loading or connecting. Both players remained connected throughout gameplay and even if players who were connected had left the game, they were brought back to the same lobby and remained connected. Cross compatibility worked as intended on PC and playstation and passed the test.
+
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 | Dec 3rd | Deven Zimmer (Ps4) | 7/7 pass |			
+| 2 | Dec 4th | Deven Zimmer(PC) | 7/7 pass |			
+| 3 | | | |	
+| 4 | | | |
+
+
 
