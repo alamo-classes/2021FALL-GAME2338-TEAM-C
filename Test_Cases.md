@@ -17,7 +17,7 @@
 * Modified Date:
   * december 1st
 * Requirements Covered:
-  * the game turns on and UI/GUI is displayed correctly
+  * the game turns on and UI/GUI is displayed correctly and buttons work as intended
 * Test Description/Purpose:
   * the game should turn on and be easily navigateable with the use of the UI. This test ensures that the UI is functionable and adds to the usability of the game with clear instructions
 * Pre-Test Conditions:
