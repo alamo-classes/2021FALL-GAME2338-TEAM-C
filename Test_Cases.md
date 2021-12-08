@@ -173,7 +173,7 @@ The game has impactful sound effects and the themes blend well with the mechanin
 		
 
 ## Overall Test Status:
-When using mechanics that involve player movement, each function works as intended across both PC and PS4
+While testing the controls, all button controls are responsive and function correctly. The game's implimented mechanics for gameplay also function correctly and there appears to be no issues or lagging. Everything implimented in the game functions properly for both PC and PS4 systems.
 
 
 ## Run History:
@@ -181,8 +181,7 @@ When using mechanics that involve player movement, each function works as intend
 | --- | --- | --- | --- |
 | 1 | Nov 28 | Deven (PS4) | pass 6/6 |			
 | 2 | Dec 3rd | Deven (PC) | pass 6/6 |			
-| 3 | | | |			
-| 4 | | | |
+| 3 | Dec 7th | Christa (PC) | pass 6/6 |	
 
 # Test Case : Environment interaction
 
@@ -220,7 +219,7 @@ When using mechanics that involve player movement, each function works as intend
 	
 
 ## Overall Test Status:
-The player's mechanics interacting with the world ran smoothly making it easy for players as well as fun to use the environment around them to gain advantage on other players or strategize. This test showed that interacting with loot, doors, supply bins, etc, all successfully provided the inteded result with ease.
+All mechanics that put the player to interact with the stage's scenery run smoothly with no bugs or glitches to report that may effect the player's gameplay. The game provides an entertaining enviroment for many players to have fun in as they explore around them, and apply stratagies as well as gain the advantage against other players in online matches. This test showed that interacting with loot, doors, supply bins, etc, all successfully provided the inteded result with ease.
 
 
 ## Run History:
@@ -228,7 +227,7 @@ The player's mechanics interacting with the world ran smoothly making it easy fo
 | --- | --- | --- | --- |
 | 1 | Dec 1st | Deven Zimmer (Ps4) | 5/5 pass |			
 | 2 | Dec 1st | Deven Zimmer(PC) | 5/5 pass |			
-| 3 | | | |	
+| 3 | Dec 6th | Christa Gonzalez (PC) | 5/5 pass |	
 | 4 | | | |
 
 # Test Case 
