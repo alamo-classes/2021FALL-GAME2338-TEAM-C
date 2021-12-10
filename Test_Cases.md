@@ -87,9 +87,9 @@ The game is easily navigateable through the use of the correct buttons as shown.
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
 | 1 | nov 24th | Deven | pass 3/3 |			
-| 2 | Dec 1st | Deven (PC)|  3/3 |			
-| 3 | Dec 9th | Jack Boland (Xbox Series X | pass 3/3 |	
-| 4 | | | |
+| 2 | Dec 1st | Deven (PC)| pass 3/3 |			
+| 3 | Dec 6th | Christa(PS4) | pass 3/3 |	
+| 4 | Dec 9th | Jack Boland (Xbox Series X) | pass 3/3 |
  
  
 # Test Case 
@@ -133,8 +133,8 @@ The game has impactful sound effects and the themes blend well with the mechanin
 | --- | --- | --- | --- |
 | 1 | nov 30th | Deven | pass 3/3 |			
 | 2 | Dec 1st | Deven (PC) | pass 3/3 |			
-| 3 | Dec 9th | Jack Boland (PC) | pass 3/3 |	
-| 4 | | | |
+| 3 | Dec 6th | Christa (PS4) | pass 3/3  |	
+| 4 | Dec 9th | Jack Boland (PC) | pass 3/3 |
 
 # Test Case 
 
@@ -278,8 +278,8 @@ This game runs smoothly with cross compatability. When testing on PC and invitin
 | --- | --- | --- | --- |
 | 1 | Dec 3rd | Deven Zimmer (Ps4) | 7/7 pass |			
 | 2 | Dec 4th | Deven Zimmer(PC) | 7/7 pass |			
-| 3 | Dec 9th | Jack Boland (Xbox Series X | 7/7 pass |	
-| 4 | | | |
+| 3 | Dec 9th | Jack Boland (Xbox Series X) | 7/7 pass |	
+| 4 | Dec 9th | Christa G (PC) | 7/7 pass |
 
 * Test Case ID:
   * #007
@@ -362,10 +362,9 @@ The weapons menu shows a lot of statistics for weapons, although at times is dif
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | Dec 9th | Jack Boland (PC) | 7/7 pass |		
-| 2 | Dec 9th  | Deven Zimmer (Ps4)| 7/7 pass |			
-| 3 | | | |	
-| 4 | | | |
-
+| 1 | Dec 1st | Deven (PS4) | 7/7 pass |			
+| 2 | Dec 4th | Christa (PC) | 7/7 pass |
+| 3 | Dec 9th | Jack Boland (PC) | 7/7 pass |		
+| 4 | | | |			
 
 
