@@ -5,7 +5,7 @@
 ### Overview
 
 (Paragraph)
-* High level overall view of the test case results. Think upper management wants to know how the test plan and test cases ran.
+* The test cases provided a sound idea of how the testing was ran on Apex. We can see that basic functionality and simple UI was tested well, and yields satisfying results. Allows for a lot of customization with controls and settings as well which lends to great enjoyment of the game. The crossplay aspect was tested as well and really helps understand that the playerbase is an important aspect for the developers. Crossplay works very well with all systems and is seamless with the usage of invitations. Interactivity in-game was tested as well and highlights how much was put into the items in game and how they handle with the player as well as showing the functionality of every in-game item and weapon. Test cases were ran efficiently and with a tight-knit group, the dynamic of testing helped expedite the testing process.
 
 #### Number of Test performed
 The number of test performed in total were 8. We focused mostly on the game's functionality and core mechanics such as the player's ability to react and
