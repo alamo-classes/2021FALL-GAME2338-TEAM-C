@@ -36,7 +36,7 @@ graphics for the inputs to use rather than pressing UI buttons, the usability wo
 ### Recommendation
 
 (Paragraphs)
-* Very technical summary of the results and where things can be improved or what course of action the game should take as a result of the testing.
+* Apex could work on the settings menu with the little details within. For example, the toggle scope setting was not seemingly doing anything to alter the toggling of scopes. The general aspects of the menu do work well, but the controls section could use more testing and possible reworks to make sure the game is showing off settings in the best possible way to new players. Weapons selection menus do shove a lot of information that is not covered initially and requires some understanding of first person shooters to understand. Perhaps the tutorial could include more about the specific aspects of each weapon to mitigate the confusion.
 
 
 ## SECTION 2: DETAILED TEST RESULTS
