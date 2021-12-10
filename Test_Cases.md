@@ -280,5 +280,46 @@ This game runs smoothly with cross compatability. When testing on PC and invitin
 | 3 | Dec 9th | Jack Boland (Xbox Series X | 7/7 pass |	
 | 4 | | | |
 
+* Test Case ID:
+  * #007
+* Test Case Name:
+  * Ingame Menus and UI
+* Component: 
+  * Check if in-game menus and settings within are functional and intuitive
+* Test Case Designer:
+  * Jack Boland
+* Creation Date:
+  * Dec 9th
+* Modified By:
+  * Jack Boland
+* Modified Date:
+  * Dec 9th
+* Requirements Covered:
+  * In game menus and various settings withing
+* Test Description/Purpose:
+  * The game should allow for easy navigation of menus as well as the ability to change the settings easily with satisfying results.
+* Pre-Test Conditions:
+  * Menus load and settings display correctly.
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 | Get in a game | Game loads | (√) |			
+| 2 | Open menu | Menu opens and displays normal pause menu | (√) |			
+| 3 | Open settings| Settings should appear | (√) |			
+| 4 | Change volume, resolution, graphics, etc. | Options should be saved | (√) |			
+| 5 | Apply options| Changed options should change instantaneously | (x) |			
+		
+	
 
+## Overall Test Status:
+The game's menus work in game but some options do require a restart for application, not surprising given the nature of the game however. All options save from in game to the main menu and save over through various playthroughs. Volume is well balance and plenty of control options as well as full customisation. Trouble with toggle of scope however.
+
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 | Dec 9th | Jack Boland (PC) | 6/7 pass |			
+| 2 | | | |			
+| 3 | | | |	
+| 4 | | | |
 
