@@ -43,7 +43,7 @@ The game is easily navigateable through the use of the correct buttons as shown.
 | --- | --- | --- | --- |
 | 1 | Nov 30th | Deven Zimmer (Ps4) | 6/7 pass |			
 | 2 | Dec 1st | Deven Zimmer(PC) | 7/7 pass |			
-| 3 | | | |	
+| 3 | Dec 9th | Jack Boland(Xbox Series X | 7/7 pass |	
 | 4 | | | |
 
 # Test Case 
@@ -88,7 +88,7 @@ The game is easily navigateable through the use of the correct buttons as shown.
 | --- | --- | --- | --- |
 | 1 | nov 24th | Deven | pass 3/3 |			
 | 2 | Dec 1st | Deven (PC)|  3/3 |			
-| 3 | | | |	
+| 3 | Dec 9th | Jack Boland (Xbox Series X | pass 3/3 |	
 | 4 | | | |
  
  
