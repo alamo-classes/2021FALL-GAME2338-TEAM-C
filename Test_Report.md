@@ -36,6 +36,7 @@ connections.
 #### Hardware Configuration
 
 (Paragraph)
+We used multiple hardwares for testing, PC, PS4, Xbox Series X, and on each one, the game ran fine. We ensured that tests that required it, were run under the same setups and configurations to ensure that the test was properly setup and allowed for easy comparison amongst different versions. By being able to test on the larger category of systems, we were able to run our tests on each system efficiently and this lent to a more streamline testing process which in turn allowed for easier test cases to be run.
 
 ### Recommendation
 
