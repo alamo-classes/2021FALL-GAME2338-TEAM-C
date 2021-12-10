@@ -4,7 +4,6 @@
 
 ### Overview
 
-(Paragraph)
 * The test cases provided a sound idea of how the testing was ran on Apex. We can see that basic functionality and simple UI was tested well, and yields satisfying results. Allows for a lot of customization with controls and settings as well which lends to great enjoyment of the game. The crossplay aspect was tested as well and really helps understand that the playerbase is an important aspect for the developers. Crossplay works very well with all systems and is seamless with the usage of invitations. Interactivity in-game was tested as well and highlights how much was put into the items in game and how they handle with the player as well as showing the functionality of every in-game item and weapon. Test cases were ran efficiently and with a tight-knit group, the dynamic of testing helped expedite the testing process.
 
 #### Number of Test performed
@@ -40,7 +39,6 @@ connections.
 
 ### Recommendation
 
-(Paragraphs)
 * Apex could work on the settings menu with the little details within. For example, the toggle scope setting was not seemingly doing anything to alter the toggling of scopes. The general aspects of the menu do work well, but the controls section could use more testing and possible reworks to make sure the game is showing off settings in the best possible way to new players. Weapons selection menus do shove a lot of information that is not covered initially and requires some understanding of first person shooters to understand. Perhaps the tutorial could include more about the specific aspects of each weapon to mitigate the confusion. The buttons should be tested to make sure they all work across each platform to help avoid confusion on future button interactions.
 
 
