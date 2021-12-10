@@ -323,3 +323,45 @@ The game's menus work in game but some options do require a restart for applicat
 | 3 | | | |	
 | 4 | | | |
 
+
+* Test Case ID:
+  * #008
+* Test Case Name:
+  * Loadout Design
+* Component: 
+  * Check the design of the weapon selection and intuitiveness of the selection of weapons.
+* Test Case Designer:
+  * Jack Boland
+* Creation Date:
+  * Dec 9th
+* Modified By:
+  * Jack Boland
+* Modified Date:
+  * Dec 9th
+* Requirements Covered:
+  * Weapon Selection
+* Test Description/Purpose:
+  * Weapons should have extensive and easily understandable statistics as well as be easy to navigate.
+* Pre-Test Conditions:
+  * Weapons menu opened and able to be selected
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 | Open weapons menu | Weapon menu opens | (√) |			
+| 2 | Weapons menu displays statistics | Weapons display with ease of understanding | (√) |			
+| 3 | Pick weapons| Weapons selected and set to loadout | (√) |			
+| 4 | Game begins with selected weapons | Weapons appear in inventory | (√) |					
+		
+	
+
+## Overall Test Status:
+The weapons menu shows a lot of statistics for weapons, although at times is difficult to understand. Weapons menu is very responsive and has plenty of information to make a decision as well as categories for weapons to be used and if you are able to use them at the time. Weapon choice does reset with each round and allows for quick selection for the next round.
+
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 | Dec 9th | Jack Boland (PC) | 7/7 pass |			
+
+
+
