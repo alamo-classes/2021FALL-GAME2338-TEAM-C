@@ -277,7 +277,7 @@ This game runs smoothly with cross compatability. When testing on PC and invitin
 | --- | --- | --- | --- |
 | 1 | Dec 3rd | Deven Zimmer (Ps4) | 7/7 pass |			
 | 2 | Dec 4th | Deven Zimmer(PC) | 7/7 pass |			
-| 3 | | | |	
+| 3 | Dec 9th | Jack Boland (Xbox Series X | 7/7 pass |	
 | 4 | | | |
 
 
