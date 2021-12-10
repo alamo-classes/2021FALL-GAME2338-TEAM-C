@@ -133,7 +133,7 @@ The game has impactful sound effects and the themes blend well with the mechanin
 | --- | --- | --- | --- |
 | 1 | nov 30th | Deven | pass 3/3 |			
 | 2 | Dec 1st | Deven (PC) | pass 3/3 |			
-| 3 | | | |	
+| 3 | Dec 9th | Jack Boland (PC) | pass 3/3 |	
 | 4 | | | |
 
 # Test Case 
@@ -182,6 +182,7 @@ While testing the controls, all button controls are responsive and function corr
 | 1 | Nov 28 | Deven (PS4) | pass 6/6 |			
 | 2 | Dec 3rd | Deven (PC) | pass 6/6 |			
 | 3 | Dec 7th | Christa (PC) | pass 6/6 |	
+| 4 | Dec 9th | Jack Boland (Xbox Series X) | pass 6/6 |
 
 # Test Case : Environment interaction
 
@@ -228,7 +229,7 @@ All mechanics that put the player to interact with the stage's scenery run smoot
 | 1 | Dec 1st | Deven Zimmer (Ps4) | 5/5 pass |			
 | 2 | Dec 1st | Deven Zimmer(PC) | 5/5 pass |			
 | 3 | Dec 6th | Christa Gonzalez (PC) | 5/5 pass |	
-| 4 | | | |
+| 4 | Dec 9th | Jack Boland (PC) | 5/5 pass |
 
 # Test Case 
 
@@ -361,7 +362,10 @@ The weapons menu shows a lot of statistics for weapons, although at times is dif
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | Dec 9th | Jack Boland (PC) | 7/7 pass |			
+| 1 | Dec 9th | Jack Boland (PC) | 7/7 pass |		
+| 2 | | | |			
+| 3 | | | |	
+| 4 | | | |
 
 
 
