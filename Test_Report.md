@@ -24,8 +24,7 @@ graphics for the inputs to use rather than pressing UI buttons, the usability wo
 
 #### Requirements Status
 
-(Paragraph)
-* According to your test plan requirements did your test case runs meet your listed requirements.
+* Apex was given four requirements, Usability, Functionality, Balance, and Intergration and needed to pass at least three out of the four to meet our acceptance criteria. Integration, the game's themes and mechanics go very well together. Gameplay and the enviornment, as well as loot don't feel out of place for the game and reinforce the type of game it advertises to be. Balance, Apex can be considered "perfectly imbalanced" for patient players that wish to grow their skills in the game, Apex makes room for improvement the more you keep practicing and playing. Maps are balanced, newcomer and vetern players are able to navigate through many maps without being overwhelmed with obstacles. Loot, and "chance" are intertwined together. All loot is overall balanced, you're not overpowered. (unless you know exactly what you're doing or have a set stratigy) and of course "chance" comes along with the type of loot you get as it is random and you're going to have to work with what you're given. Lastly Functionality, the game's set functions, mechanics, and gameplay interactions work as intended with little to know issues. Any function errors don't usually come from the game itself, rather than the player's equipment or connection errors.
 
 ### Test Environment
 
@@ -36,7 +35,6 @@ connections.
 #### Hardware Configuration
 
 (Paragraph)
-We used multiple hardwares for testing, PC, PS4, Xbox Series X, and on each one, the game ran fine. We ensured that tests that required it, were run under the same setups and configurations to ensure that the test was properly setup and allowed for easy comparison amongst different versions. By being able to test on the larger category of systems, we were able to run our tests on each system efficiently and this lent to a more streamline testing process which in turn allowed for easier test cases to be run.
 
 ### Recommendation
 
