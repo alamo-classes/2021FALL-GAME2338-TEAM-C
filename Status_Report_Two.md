@@ -23,22 +23,27 @@
 
 # Current Schedule
 
-The rest of this week is focused on finishing test cases and getting them logged into our github project so we can tweak and wrap up all of our findings in order to finalize the drafts and turn this project in by the end of the semester. 
+The rest of this week is focused on finishing test cases and getting them logged into our github project so we can tweak and wrap up all of our findings in order to finalize the drafts and turn this project in by the end of the semester. Prefereably we'll have a veritable amount of extensively tested cases and be able to punctually report them in time.
+We also plan on going over past reports and learning from what we reported in the past.
 
 # Changes
 
 * Adding in more of a variety of test cases
 * Splitting up original test cases into a more specific category, such as mechanics being split into environment interaction, character interaction, etc. This will make it easier to broaden our search
+* Building on our past reports and possibly retesting them.
 
 ## Additional tasks to add
 
 * Make test cases more specific 
 * Test and compare crossplay
+* Test in-game UI (Menus, and cohesiveness of health and ammo etc.)
 
 ## What has been completed and date of completion
 
-* Testing of different play strategies 
+* Testing of different play strategies.
 * Test cases have been created over thanksgiving break.
+* General gameplay and UI Menus.
+* Multiplayer Online Integration and Intuitiveness.
 
 # General Notes/Overall Status
 
