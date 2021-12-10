@@ -48,8 +48,8 @@ connections.
 
 | Name of Test | Status – Pass/Fail | Tester | Test ID | Associated Requirement |
 |---|---|---|---|---|
-| UI usability and functionality| fail | | 001| UI works on all platforms |
-|Usability| Pass | Deven| 002| Easy to learn |
+| UI usability and functionality| fail | Deven Christa & Jack| 001| UI works on all platforms |
+|Usability| Pass | Deven Christa & Jack| 002| Easy to learn |
 | Integration| Pass | Deven Christa & Jack | 003 | theme and mechanics reinforce eachother |
 | Reliability| Pass | Deven Christa & Jack| 004| Characters movements are consistent |
 | Environment interaction | Pass | Deven Christa & Jack| 005| environment responds to the mechanics used|
