@@ -313,14 +313,14 @@ This game runs smoothly with cross compatability. When testing on PC and invitin
 	
 
 ## Overall Test Status:
-The game's menus work in game but some options do require a restart for application, not surprising given the nature of the game however. All options save from in game to the main menu and save over through various playthroughs. Volume is well balance and plenty of control options as well as full customisation. Trouble with toggle of scope however.
+The game's menus work in game but some options do require a restart for application, not surprising given the nature of the game however. All options save from in game to the main menu and save over through various playthroughs. Volume is well balance and plenty of control options as well as full customisation. Trouble with toggle of scope however. Playstation on the other hand saved the setting that were applied.
 
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
 | 1 | Dec 9th | Jack Boland (PC) | 6/7 pass |			
-| 2 | | | |			
+| 2 | Dec 9th | Deven Zimmer (PS4) | 7/7 |			
 | 3 | | | |	
 | 4 | | | |
 
@@ -363,7 +363,7 @@ The weapons menu shows a lot of statistics for weapons, although at times is dif
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
 | 1 | Dec 9th | Jack Boland (PC) | 7/7 pass |		
-| 2 | | | |			
+| 2 | Dec 9th  | Deven Zimmer (Ps4)| 7/7 pass |			
 | 3 | | | |	
 | 4 | | | |
 
